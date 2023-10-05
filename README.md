@@ -1,12 +1,12 @@
-# SKMHS22_diffractive_PDFs
-# SKMHS22: Global QCD analysis of diffractive parton distribution function
+# SKMHS23_diffractive_PDFs_dijet
+# SKMHS23: Global QCD analysis of diffractive parton distribution function
 
 
- Global QCD analysis of diffractive parton distribution function considering higher twist corrections within the xFitter framework
- 
+ Determination of diffractive PDFs from a global QCD analysis of inclusive diffractive DIS and dijet cross-section measurements at HERA
+
  Maral Salajegheh, Hamzeh Khanpour, Ulf-G. Meißner, Hadi Hashamipour, Maryam Soleymaninia
  
-            e-Print: arXiv:2206.13788 [hep-ph];	Phys.Rev.D 106 (2022) 5, 054012
+            e-Print: arXiv: 2301.10284 [hep-ph];	Phys.Rev.D 107 (2023) 9, 094038
 
 
 
