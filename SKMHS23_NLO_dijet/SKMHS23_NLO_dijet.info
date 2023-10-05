@@ -1,7 +1,7 @@
-SetDesc: "Add your description here"
+SetDesc: "SKMHS22 diffractive dijet PDFs"
 SetIndex: 00000
-Authors: Alpos auto-generated file
-Reference: [Add reference here]
+Authors: Maral Salajegheh, Hamzeh Khanpour, Ulf-G. Meißner, Hadi Hashamipour, Maryam Soleymaninia
+Reference: arXiv: 2301.10284 [hep-ph];	Phys.Rev.D 107 (2023) 9, 094038
 Format: lhagrid1
 DataVersion: 1
 NumMembers: 17
