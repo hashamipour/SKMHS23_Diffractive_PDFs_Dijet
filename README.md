@@ -10,7 +10,7 @@
 
 
 
- An example Code for SKMHS22 diffractive dijet PDFs
+ An example Code for SKMHS23 diffractive dijet PDFs
   
  --    Compile with:
  --    gfortran SKMHS23_diffractive_PDFs_dijet.f -L /usr/local/lib -lLHAPDF
