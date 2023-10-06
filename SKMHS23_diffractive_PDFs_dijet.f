@@ -13,7 +13,7 @@
 ! ---------------------------------------
 
 
-       program SKMHS23_diffractive_PDFs_dijet
+       program SKMHS23_diffractive_PDFs_dijet   
 
        implicit none
        integer nset, nmem, imem, MaxNumSets, nx, i, ix
